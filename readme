@@ -1,1 +1,20 @@
 Information
+Description:-
+We will make an app which will check current temperature of any location round the world. User will have to type the name of place 
+and then it will displaythe current temperature of the location, but if the user wants to know about more details then they must 
+have to signup or login. After signing up, they can check minimum temperature, maximum temperature, feels like and all other details
+like that and they can edit this as well they whether they want to see this is future or not. They can also add a location, so that 
+in future they don’t have to type it again and again. There will be can other option for current location as well, by clicking on it,
+it will display the temperature details of the current location.
+
+Screen Details:-
+-Signup: for signing up as a new user
+-Login Screen: login using username and password
+-add locations: User will be able to add maximum 5 locations at a time
+-temperature: details about the weather
+-Forecast: Weather check for 14 days
+
+Challenges:-
+Our main challenge is working with database and connecting it with Android Studio, as we have never worked with that and next thing 
+would be making list of saved locations to make it easier to check weather of selected locations. But we will try our best to complete
+this project and make it a success.
